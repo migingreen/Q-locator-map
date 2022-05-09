@@ -4,4 +4,5 @@ scripts
 styles
 !resources/styles
 dev.js
+data
 resources/fixtures
